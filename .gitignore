@@ -18,3 +18,6 @@ dist/
 .nfs*
 
 *starting_kit.html
+
+air_passengers_*romain*.ipynb
+air_passengers_*jerome*.ipynb
